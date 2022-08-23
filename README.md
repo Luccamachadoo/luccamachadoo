@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucca Machado, estudante de programação 👋
 
 
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML, CSS, JavaScript e React
 - 📫 Contante-me no e-mail: lvinicius212@gmail.com
 
 ##
